@@ -1,0 +1,17 @@
+title: Sravya # your name (or website title) here
+logo: "/images/girl_logo.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  <br>
+  Hello, I'm Sravya, a seasoned data scientist with over four years of hands-on experience. I specialize in transforming raw data into actionable insights, leveraging statistical analysis, machine learning, and data visualization. 
+  <br>
+  My expertise lies in driving strategic decision-making and solving complex business problems through the power of data. I'm excited about the opportunity to bring my skills and experience to contribute to your team's success.
+  <br><br>
+  Ranked in top 10% of undergraduate cohort at XYZ University.
+  <br><br>
+  <a href="https://www.linkedin.com/">View my LinkedIn Profile</a> 
+  
+theme: jekyll-theme-minimal
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+colors:
+  crimson: '#900C3F'
