@@ -8,7 +8,7 @@ The project focuses on Natural Language Processing (NLP) with a primary objectiv
 
 This application has potential applications in diverse fields such as social media monitoring, customer feedback analysis, and market sentiment tracking. The project leverages advanced NLP techniques to enhance understanding and interpretation of human sentiments and emotions within textual content.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](http://tinyurl.com/bddzf9ap)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1IG_FeO0uGgLT7Lr9biKxl3np3qDkCxvO)
 
