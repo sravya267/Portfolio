@@ -8,7 +8,7 @@ The project focuses on Natural Language Processing (NLP) with a primary objectiv
 
 This application has potential applications in diverse fields such as social media monitoring, customer feedback analysis, and market sentiment tracking. The project leverages advanced NLP techniques to enhance understanding and interpretation of human sentiments and emotions within textual content.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](http://tinyurl.com/bddzf9ap)](#)
 
 [View code on Colab](https://colab.research.google.com/drive/1IG_FeO0uGgLT7Lr9biKxl3np3qDkCxvO)
 
@@ -22,7 +22,7 @@ The project aims to address the evolving dynamics of office occupancy patterns i
 
 <img src="images/mobility.png?raw=true" />
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Google-white?logo=Google)](#) [![](http://tinyurl.com/5n7nyufm)](#) [![](http://tinyurl.com/4jv2ybck)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Google-white?logo=Google)](#) [![](http://tinyurl.com/5n7nyufm)](#) [![](http://tinyurl.com/bddzf9ap)](#) [![](http://tinyurl.com/4jv2ybck)](#)
 
 
 [View code on Colab](https://colab.research.google.com/drive/11ZOiF-8OhTTWAfMNYeavqCztir4MFsfg)
@@ -50,10 +50,10 @@ The project centers on Regression and Classification techniques to create a What
 
 The project's objective is to provide actionable insights and advice for capital spending decisions by simulating different scenarios and predicting their impact on the overall glidepath. This tool can prove valuable for financial planning, risk management, and strategic decision-making, helping stakeholders make informed choices in managing capital expenditures.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](http://tinyurl.com/28hame79)](#) [![](http://tinyurl.com/bddzf9ap)](#) [![](http://tinyurl.com/4jv2ybck)](#)
 
 
-[View code on Github](https://colab.research.google.com/drive/11ZOiF-8OhTTWAfMNYeavqCztir4MFsfg)
+[View code on Colab](https://colab.research.google.com/drive/11ZOiF-8OhTTWAfMNYeavqCztir4MFsfg)
 
 ---
 
