@@ -20,7 +20,6 @@ The project focuses on Time Series Forecasting with a specific emphasis on predi
 
 The project aims to address the evolving dynamics of office occupancy patterns in the aftermath of the COVID-19 pandemic, enabling organizations to optimize space management, resource allocation, and adapt their strategies to the changing work environment. Through advanced time series forecasting techniques, the project aims to provide valuable insights to businesses navigating the challenges and opportunities associated with the new normal in workspace utilization.
 
-<img src="images/mobility.png?raw=true" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/Google-white?logo=Google)](#) [![](http://tinyurl.com/5n7nyufm)](#) [![](http://tinyurl.com/bddzf9ap)](#) [![](http://tinyurl.com/4jv2ybck)](#)
 
