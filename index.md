@@ -63,6 +63,6 @@ A selection of smaller projects demonstrating specific data science and ML skill
 - [Optimising code with multiprocessing](#)
 
 
-<iframe src="images/ClustersBarMotionChart.html" width="100%" height="500px"></iframe>
+<iframe src="images/test.html" width="100%" height="500px"></iframe>
 
 
