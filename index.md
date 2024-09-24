@@ -62,3 +62,8 @@ A selection of smaller projects demonstrating specific data science and ML skill
 - [Working in the cloud: Using data stored in AWS S3 buckets](#)
 - [Optimising code with multiprocessing](#)
 
+
+<div>
+    <iframe src="ClustersBarMotionChart.html" width="100%" height="500px"></iframe>
+</div>
+
