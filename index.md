@@ -1,4 +1,4 @@
-## Selected projects in data science, machine learning and NLP
+## Data Doodles : A collection of my data tinkering. Join me as I experiment, fumble, and occasionally stumble upon something unexpectedly cool.
 
 ---
 
