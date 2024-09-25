@@ -1,4 +1,4 @@
-## Data Doodles 
+## Data Doodles : A collection of my data tinkering. Join me as I experiment, fumble, and occasionally stumble upon something unexpectedly cool.
 
 ---
 
