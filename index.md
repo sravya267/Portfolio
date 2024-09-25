@@ -1,6 +1,5 @@
 ## Data Doodles 
 A collection of my data tinkering. Join me as I experiment, fumble, and occasionally stumble upon something unexpectedly cool.
-
 ---
 
 ### NLP : Sentiment Analysis, Emotion Analysis and scores
