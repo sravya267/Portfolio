@@ -1,6 +1,6 @@
 ## Portfolio
 
-A collection of my projects. Join me as I experiment, fumble, and occasionally stumble upon something unexpectedly cool.
+A few fun and a few unconventional data projects where I fumble, experiment, and occasionally land on something surprisingly cool!
 
 ---
 
