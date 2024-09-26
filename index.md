@@ -1,6 +1,6 @@
-## Data Doodles 
+## Portfolio
 
-A collection of my data tinkering projects. Join me as I experiment, fumble, and occasionally stumble upon something unexpectedly cool.
+A collection of my projects. Join me as I experiment, fumble, and occasionally stumble upon something unexpectedly cool.
 
 ---
 
