@@ -8,6 +8,7 @@ A few fun and a few unconventional data projects where I fumble, experiment, and
 
 1. Emotions Word Cloud project
 2. Sentiment Analysis, Emotion Analysis and scores
+3. webscrape reddit
 
 The project focuses on Natural Language Processing (NLP) with a primary objective of sentiment analysis and emotion analysis. The goal is to develop a robust system capable of accurately determining the sentiment expressed in textual data and identifying the underlying emotions. Additionally, the project aims to generate sentiment and emotion scores to quantify the intensity or polarity of the sentiments and emotions detected. 
 
