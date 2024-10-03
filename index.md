@@ -63,6 +63,6 @@ The project's objective is to provide actionable insights and advice for capital
 ---
 
 
-<iframe src="images/ClustersBarMotionhart.html" width="100%" height="500px"></iframe>
+<iframe src="images/ClustersBarMotionChart.html" width="100%" height="500px"></iframe>
 
 
