@@ -62,13 +62,7 @@ The project's objective is to provide actionable insights and advice for capital
 
 ---
 
-## Skills-based projects
-A selection of smaller projects demonstrating specific data science and ML skills.
 
-- [Working in the cloud: Using data stored in AWS S3 buckets](#)
-- [Optimising code with multiprocessing](#)
-
-
-<iframe src="images/test.html" width="100%" height="500px"></iframe>
+<iframe src="images/ClustersBarMotionhart.html" width="100%" height="500px"></iframe>
 
 
