@@ -56,7 +56,6 @@ The project centers on Regression and Classification techniques to create a What
 The project's objective is to provide actionable insights and advice for capital spending decisions by simulating different scenarios and predicting their impact on the overall glidepath. This tool can prove valuable for financial planning, risk management, and strategic decision-making, helping stakeholders make informed choices in managing capital expenditures.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](http://tinyurl.com/28hame79)](#) [![](http://tinyurl.com/bddzf9ap)](#) [![](http://tinyurl.com/4jv2ybck)](#)
-[![](https://img.shields.io/pypi/pyversions/:packageName)](#)
 
 
 
