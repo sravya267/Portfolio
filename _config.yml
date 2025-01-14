@@ -1,18 +1,39 @@
-title: Sravya Thoomu # your name (or website title) here
+title: Sravya Thoomu #Your Name (or Website Title)
 #logo: "/images/girl_logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
-   sthoomu@gmail.com
-   <br>
-   (919)-579-8832
-  <br><br>
-  Clemson University – Master of Science                                                                   Aug 2008 – Aug 2010
-  Thesis specialization in machine learning, optimization and approximation techniques. Worked as research assistant on an automotive research center project. Thesis: Design Decisions Under Uncertainty.
-  <br><br>
-  <a href="https://www.linkedin.com/in/sravya-t-4474b71b0/">LinkedIn Profile</a> 
-  
+description: > 
+  <div style="font-family: Arial, sans-serif; color: #333; line-height: 1.6;">
+    <h2 style="color: #0078D7;">Contact Information</h2>
+    <p>
+      <strong>Email:</strong> xxx@gmail.com <br>
+      <strong>Phone:</strong> (xxx)-xxx-xxx
+    </p>
+    
+    <h2 style="color: #E91E63;">Education</h2>
+    <p>
+      <strong>xxxx University – Master of Science</strong> <br>
+      Aug 2008 – Aug 2010
+    </p>
+    
+    <h2 style="color: #4CAF50;">Experience</h2>
+    <ul style="background: #F3F4F6; padding: 15px; border-radius: 8px; list-style: square;">
+      <li><strong style="color: #FF5722;">Job 1:</strong> Brief description of role and achievements</li>
+      <li><strong style="color: #FF9800;">Job 2:</strong> Brief description of role and achievements</li>
+      <li><strong style="color: #9C27B0;">Job 3:</strong> Brief description of role and achievements</li>
+    </ul>
+
+    <h2 style="color: #03A9F4;">Links</h2>
+    <p>
+      <a href="https://www.linkedin.com/in/sravya-t-4474b71b0/" style="color: #03A9F4; text-decoration: none;">
+        LinkedIn Profile
+      </a>
+    </p>
+  </div>
+
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
 colors:
-  crimson: '#900C3F'
+  primary: '#0078D7'
+  secondary: '#E91E63'
+  accent: '#4CAF50'
+  background: '#F3F4F6'
