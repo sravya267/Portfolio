@@ -6,7 +6,8 @@ description: >
       <strong>Phone:</strong> (919)-579-8832
 
     <h2 style="color: #E91E63; margin-top: 20px;">Education</h2>
-      <strong>xxxx University – Master of Science</strong> <br>
+    <div style="font-family: Arial, sans-serif; color: #333; line-height: 1.6; margin-top: -20px;">
+      <strong>Clemson University – Master of Science</strong> <br>
       Aug 2008 – Aug 2010
     </p>
     
