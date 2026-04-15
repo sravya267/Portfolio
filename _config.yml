@@ -1,5 +1,5 @@
 title: Sravya Thoomu
-logo: "/images/girl_logo.jpg?raw=true"
+# logo: "/images/girl_logo.jpg?raw=true"
 url: "https://sravya267.github.io"
 baseurl: "/Portfolio"
 description: "Data science and machine learning portfolio — NLP, Time Series, Clustering, and Regression projects."
