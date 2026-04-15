@@ -143,6 +143,16 @@ section img {
 }
 
 /* =====================
+   About / Education Block
+   ===================== */
+.about-block {
+  background: var(--color-background);
+  padding: 12px 16px;
+  border-radius: 6px;
+  line-height: var(--line-height-body);
+}
+
+/* =====================
    Footer
    ===================== */
 footer {

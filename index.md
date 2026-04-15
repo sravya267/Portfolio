@@ -1,3 +1,46 @@
+## About
+
+Fullstack data and analytics professional with 14+ years of end-to-end experience designing scalable data pipelines, deploying predictive and AI/ML models, and translating complex datasets into executive-facing insights. Proven expertise in Python, SQL, PySpark, and cloud platforms (GCP, Azure, AWS), with deep fluency in ETL/ELT architecture, data governance, NLP and LLM-powered automation, and advanced analytics.
+
+---
+
+## Education
+
+<div class="about-block">
+  <strong>Clemson University &ndash; M.S. Machine Learning and Optimization</strong><br>
+  Aug 2008 &ndash; Aug 2010<br>
+  <em>Thesis: Design Decisions Under Uncertainty. Research Assistant, Automotive Research Center.</em>
+</div>
+
+---
+
+## Experience
+
+<ul class="experience-list">
+  <li>
+    <strong class="job-title">Data and Analytics Consultant</strong>
+    <span class="job-dates">(Dec 2025 &ndash; Present)</span><br>
+    Built AI-powered K&ndash;2 math worksheet application using Python and FastAPI with ML-driven adaptive spiral learning models. Integrated GenAI and prompt engineering for dynamic differentiated content generation.
+  </li>
+  <li>
+    <strong class="job-title">Technical Data Analytics Lead &mdash; Jones Lang LaSalle</strong>
+    <span class="job-dates">(Dec 2012 &ndash; Dec 2025)</span><br>
+    Led global data science and engineering team at a Fortune 500 organization. Architected metadata-driven ETL pipelines on Azure and GCP integrating 10+ source systems. Delivered DaVinci Award-winning pipeline automation saving $200K+ annually. Built NLP/LLM-powered automation and predictive models for financial, facilities, and workspace analytics. 3&times; VIP Award winner.
+  </li>
+  <li>
+    <strong class="job-title">Data Science &amp; Engineering Manager &mdash; Mediamath</strong>
+    <span class="job-dates">(Feb 2015 &ndash; Oct 2015)</span><br>
+    Built Python and R ML models for customer segmentation, time-series forecasting, and automated reporting pipelines supporting programmatic advertising campaigns.
+  </li>
+  <li>
+    <strong class="job-title">Safety Optimization Analyst &mdash; Ford Motor Company</strong>
+    <span class="job-dates">(Aug 2010 &ndash; Dec 2012)</span><br>
+    Developed quantitative optimization models and regression analyses applied to vehicle safety engineering datasets. Built SQL pipelines and R forecasting models for engineering decision support.
+  </li>
+</ul>
+
+---
+
 ## Portfolio
 
 A few fun and a few unconventional data projects where I fumble, experiment, and occasionally land on something surprisingly cool!
