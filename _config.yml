@@ -1,6 +1,7 @@
 title: Sravya Thoomu
 logo: "/images/girl_logo.jpg?raw=true"
-url: "https://sravya267.github.io/Portfolio"
+url: "https://sravya267.github.io"
+baseurl: "/Portfolio"
 description: >
   <div class="description-block">
     <strong>Email:</strong> sthoomu@gmail.com <br>
