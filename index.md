@@ -8,13 +8,13 @@ Fullstack data and analytics professional with 14+ years of end-to-end experienc
 
 ### Data Engineering
 
-*Projects coming soon.*
+*Projects are being updated.*
 
 ---
 
 ### Data Governance
 
-*Projects coming soon.*
+*Projects are being updated.*
 
 ---
 
