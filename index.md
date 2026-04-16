@@ -1,10 +1,26 @@
-## Portfolio
+## Professional Summary
 
-A few fun and a few unconventional data projects where I fumble, experiment, and occasionally land on something surprisingly cool!
+Fullstack data and analytics professional with 14+ years of end-to-end experience designing scalable data pipelines, deploying predictive and AI/ML models, and translating complex datasets into executive-facing insights. Proven expertise in Python, SQL, PySpark, and cloud platforms (GCP, Azure, AWS), with deep fluency in ETL/ELT architecture, data governance, NLP and LLM-powered automation, and advanced analytics. Experienced leading cross-functional teams and engaging directly with senior business stakeholders across Finance, Operations, and Product to define analytics strategy, implement sophisticated models within existing workflows, and drive measurable business outcomes. Adept at breaking down complex problems, communicating technical concepts to non-technical audiences, and operating independently across both lean and matrixed environments.
 
 ---
 
-### NLP : 
+## Projects
+
+### Data Engineering
+
+*Projects coming soon.*
+
+---
+
+### Data Governance
+
+*Projects coming soon.*
+
+---
+
+### Data Science, ML and AI
+
+#### NLP : Emotions, Sentiment and Emotion Analysis
 
 1. Emotions Word Cloud project
 2. Sentiment Analysis, Emotion Analysis and scores
@@ -28,7 +44,7 @@ This application has potential applications in diverse fields such as social med
 
 ---
 
-### Time Series Forecasting : Commercial Workspace Occupancy Forecasting Post Covid
+#### Time Series Forecasting : Commercial Workspace Occupancy Post Covid
 
 The project focuses on Time Series Forecasting with a specific emphasis on predicting commercial workspace occupancy post-COVID. Using historical occupancy data and relevant contextual factors, the goal is to develop accurate forecasts that assist businesses in anticipating and planning for future workspace utilization.
 
@@ -47,7 +63,7 @@ The project aims to address the evolving dynamics of office occupancy patterns i
 
 ---
 
-### Clustering : Employee Network Analysis
+#### Clustering : Employee Network Analysis
 
 The project focuses on clustering techniques with the specific objective of conducting Employee Network Analysis. By analyzing relationships and interactions within the organizational structure, the goal is to identify clusters or groups of employees with similar patterns of communication and collaboration.
 
@@ -67,7 +83,7 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 
 ---
 
-### Regression / Classification : What-if tool that generates capital spend advice based on glidepath
+#### Regression / Classification : What-if Tool for Capital Spend Advice
 
 The project centers on Regression and Classification techniques to create a What-if tool designed to generate capital spending advice based on a predefined glidepath. Leveraging regression analysis, the tool aims to model the relationship between capital spending and various factors in a given context. Additionally, classification algorithms help classify scenarios and predict optimal capital expenditure decisions along the defined glidepath.
 
@@ -84,6 +100,12 @@ The project's objective is to provide actionable insights and advice for capital
 [View code on Colab](https://colab.research.google.com/drive/11ZOiF-8OhTTWAfMNYeavqCztir4MFsfg)
 
 ---
+
+### Visualization and Reporting
+
+#### Employee Cluster Analysis : Interactive Motion Chart
+
+Interactive bar motion chart showing how employee clusters evolve over time, built with Plotly.
 
 <div class="chart-container">
   <iframe
