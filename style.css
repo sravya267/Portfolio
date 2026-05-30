@@ -202,16 +202,27 @@ section img {
 /* =====================
    Footer
    ===================== */
-footer {
-  color: #666;
-  font-size: 0.85em;
+header footer {
+  position: fixed;
+  bottom: 12px;
+  color: #999;
+  font-size: 0.75em;
+  width: 200px;
 }
 
-footer a {
-  color: var(--color-primary);
+header footer a {
+  color: #999;
   text-decoration: none;
 }
 
-footer a:hover {
+header footer a:hover {
   text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+  header footer {
+    position: static;
+    width: 100%;
+    margin-top: 12px;
+  }
 }
