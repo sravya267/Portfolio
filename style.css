@@ -53,8 +53,13 @@ section {
 /* =====================
    Sidebar / Header Description
    ===================== */
-.description-block {
+.description-block,
+.description-block p,
+.description-block li,
+.description-block a,
+.description-block span {
   font-family: var(--font-body);
+  font-size: 0.85em !important;
   color: var(--color-text);
   line-height: var(--line-height-body);
 }
@@ -111,7 +116,6 @@ section {
 
 .job-dates {
   color: #666;
-  font-size: 0.9em;
   margin-left: 4px;
 }
 
