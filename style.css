@@ -15,9 +15,37 @@
 /* =====================
    Responsive / Base
    ===================== */
+body {
+  padding: 20px !important;
+}
+
+.wrapper {
+  max-width: 1100px !important;
+  width: 95% !important;
+  margin: 0 auto !important;
+}
+
+header {
+  width: 220px !important;
+  float: left !important;
+  position: fixed !important;
+}
+
+section {
+  float: right !important;
+  width: calc(100% - 260px) !important;
+  padding-bottom: 20px !important;
+}
+
 @media (max-width: 768px) {
-  body {
-    max-width: 100%;
+  header {
+    position: static !important;
+    float: none !important;
+    width: 100% !important;
+  }
+  section {
+    float: none !important;
+    width: 100% !important;
   }
 }
 
@@ -99,17 +127,6 @@ section a {
 
 section a:hover {
   color: var(--color-secondary);
-}
-
-/* =====================
-   Reduce theme default spacing
-   ===================== */
-body {
-  padding: 20px !important;
-}
-
-section {
-  padding-bottom: 20px !important;
 }
 
 /* =====================
