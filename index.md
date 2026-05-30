@@ -2,17 +2,23 @@
 
 ### Data Engineering
 
+<div class="project-card">
+
 *Projects are being updated.*
 
----
+</div>
 
 ### Data Governance
 
+<div class="project-card">
+
 *Projects are being updated.*
 
----
+</div>
 
 ### Data Science, ML and AI
+
+<div class="project-card">
 
 #### NLP : Emotions, Sentiment and Emotion Analysis
 
@@ -36,7 +42,9 @@ This application has potential applications in diverse fields such as social med
 
 [View code on Colab](https://colab.research.google.com/drive/1IG_FeO0uGgLT7Lr9biKxl3np3qDkCxvO)
 
----
+</div>
+
+<div class="project-card">
 
 #### Time Series Forecasting : Commercial Workspace Occupancy Post Covid
 
@@ -55,7 +63,9 @@ The project aims to address the evolving dynamics of office occupancy patterns i
 
 [View code on Colab](https://colab.research.google.com/drive/11ZOiF-8OhTTWAfMNYeavqCztir4MFsfg)
 
----
+</div>
+
+<div class="project-card">
 
 #### Clustering : Employee Network Analysis
 
@@ -75,7 +85,9 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 
 [View code on Colab](https://colab.research.google.com/drive/11ZOiF-8OhTTWAfMNYeavqCztir4MFsfg)
 
----
+</div>
+
+<div class="project-card">
 
 #### Regression / Classification : What-if Tool for Capital Spend Advice
 
@@ -93,9 +105,11 @@ The project's objective is to provide actionable insights and advice for capital
 
 [View code on Colab](https://colab.research.google.com/drive/11ZOiF-8OhTTWAfMNYeavqCztir4MFsfg)
 
----
+</div>
 
 ### Visualization and Reporting
+
+<div class="project-card">
 
 #### Employee Cluster Analysis : Interactive Motion Chart
 
@@ -108,4 +122,6 @@ Interactive bar motion chart showing how employee clusters evolve over time, bui
     aria-label="Interactive bar motion chart showing employee cluster analysis results over time"
     loading="lazy">
   </iframe>
+</div>
+
 </div>
