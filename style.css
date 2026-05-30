@@ -126,6 +126,7 @@ header h1 {
 
 .job-dates {
   color: #666;
+  font-size: 0.78em !important;
   margin-left: 4px;
 }
 
