@@ -9,7 +9,7 @@
   --color-text: #333333;
   --color-link-social: #03A9F4;
   --font-body: Arial, sans-serif;
-  --line-height-body: 1.6;
+  --line-height-body: 1.25;
 }
 
 /* =====================
@@ -17,6 +17,7 @@
    ===================== */
 body {
   padding: 20px !important;
+  line-height: 1.25 !important;
 }
 
 .wrapper {
