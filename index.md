@@ -1,27 +1,5 @@
 ## Projects
 
-### Data Engineering
-
-<div class="project-grid">
-<div class="project-card">
-
-*Projects are being updated.*
-
-</div>
-</div>
-
-### Data Governance
-
-<div class="project-grid">
-<div class="project-card">
-
-*Projects are being updated.*
-
-</div>
-</div>
-
-### Data Science, ML and AI
-
 <div class="project-grid">
 
 <div class="project-card">
@@ -94,11 +72,6 @@ A what-if tool for capital spending advice using regression and classification t
 
 </div>
 
-</div>
-
-### Visualization and Reporting
-
-<div class="project-grid">
 <div class="project-card">
 
 #### Employee Cluster Analysis : Interactive Motion Chart
@@ -115,4 +88,5 @@ Interactive bar motion chart showing how employee clusters evolve over time, bui
 </div>
 
 </div>
+
 </div>
