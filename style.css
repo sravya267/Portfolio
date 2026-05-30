@@ -102,10 +102,14 @@ section a:hover {
 }
 
 /* =====================
-   Main Section Card Padding
+   Reduce theme default spacing
    ===================== */
+body {
+  padding: 20px !important;
+}
+
 section {
-  padding: 20px 24px !important;
+  padding-bottom: 20px !important;
 }
 
 /* =====================
