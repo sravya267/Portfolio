@@ -59,19 +59,26 @@ section {
   line-height: var(--line-height-body);
 }
 
+.description-block p,
+.description-block ul,
+.description-block h2 {
+  margin-top: 4px !important;
+  margin-bottom: 4px !important;
+}
+
 .section-heading-education {
   color: var(--color-secondary);
-  margin-top: 20px;
+  margin-top: 8px !important;
 }
 
 .section-heading-experience {
   color: var(--color-accent);
-  margin-top: 20px;
+  margin-top: 8px !important;
 }
 
 .section-heading-links {
   color: var(--color-link-social);
-  margin-top: 20px;
+  margin-top: 8px !important;
 }
 
 .experience-list {
