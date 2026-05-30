@@ -102,6 +102,13 @@ section a:hover {
 }
 
 /* =====================
+   Main Section Card Padding
+   ===================== */
+section {
+  padding: 20px 24px !important;
+}
+
+/* =====================
    Project Section Headers
    ===================== */
 section h3 {
