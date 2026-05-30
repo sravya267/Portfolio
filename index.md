@@ -74,6 +74,27 @@ A what-if tool for capital spending advice using regression and classification t
 
 <div class="project-card">
 
+#### API Development & Cloud Deployment : Astrology Chart Engine
+
+Given a birth date, time, and place, a Python API resolves coordinates and timezone, runs the Swiss Ephemeris, and returns planetary positions, house cusps, and geometric relationships — rendered as an interactive Plotly chart with trait word clouds.
+
+<img src="images/astrochart.png" alt="Interactive zodiac wheel rendered with Plotly from the AstroChart FastAPI service" loading="lazy" style="max-width:100%; height:auto; border-radius:4px;">
+
+<div class="badge-row">
+  <img src="https://img.shields.io/badge/Python-white?logo=Python" alt="Python" height="18">
+  <img src="https://img.shields.io/badge/FastAPI-white?logo=fastapi" alt="FastAPI" height="18">
+  <img src="https://img.shields.io/badge/Plotly-white?logo=plotly" alt="Plotly" height="18">
+  <img src="https://img.shields.io/badge/Docker-white?logo=docker" alt="Docker" height="18">
+  <img src="https://img.shields.io/badge/Google_Cloud-white?logo=googlecloud" alt="Google Cloud" height="18">
+  <img src="https://img.shields.io/badge/GitHub_Actions-white?logo=githubactions" alt="GitHub Actions" height="18">
+</div>
+
+[View live demo](#) · [View code on GitHub](#)
+
+</div>
+
+<div class="project-card">
+
 #### Employee Cluster Analysis : Interactive Motion Chart
 
 Interactive bar motion chart showing how employee clusters evolve over time, built with Plotly.
