@@ -74,7 +74,7 @@ A what-if tool for capital spending advice using regression and classification t
 
 <div class="project-card">
 
-#### API Development & Cloud Deployment : Astrology Chart Engine
+<h4>Vibrational Astrology</h4>
 
 Given a birth date, time, and place, a Python API resolves coordinates and timezone, runs the Swiss Ephemeris, and returns planetary positions, house cusps, and geometric relationships — rendered as an interactive Plotly chart with trait word clouds.
 
